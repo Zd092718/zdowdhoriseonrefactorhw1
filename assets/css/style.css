@@ -4,7 +4,7 @@
     margin: 0;
 }
 
-body {
+main {
     background-color: #d9dcd6;
 }
 
@@ -173,7 +173,7 @@ p {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
+#search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
