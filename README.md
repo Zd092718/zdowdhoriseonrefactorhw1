@@ -12,4 +12,4 @@ compliant with HTML5 standards while still maintaining the original pages conten
 
 ## Final Product Appearance
 
-![screenshot of the final Horiseon refactored webpage](assets\images\zd092718.github.io_zdowdhoriseonrefactorhw1_.png)
+![screenshot of the final Horiseon refactored webpage](./assets/images/preview.png)
