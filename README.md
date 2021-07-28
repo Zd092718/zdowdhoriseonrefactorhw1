@@ -10,3 +10,4 @@ I reformatted the CSS file to condense the code and removed about fifty lines of
 
 ## Final Product Appearance
 
+![screenshot of the final Horiseon refactored webpage](assets\images\zd092718.github.io_zdowdhoriseonrefactorhw1_.png)
